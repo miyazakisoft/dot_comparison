@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/miyazakisoft/dot_comparison.svg?branch=master)](https://travis-ci.org/miyazakisoft/dot_comparison)
+
 # はじめに
 内積の計算を行うプログラムがどのくらいの時間がかかるのかを算出するプログラムである．
 なお，内積の計算は，ライブラリを用いている．
